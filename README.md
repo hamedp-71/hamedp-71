@@ -73,7 +73,7 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 
 <p align="center">
   <img  width="18%" src="https://raw.githubusercontent.com/darknessm427/darknessm427/refs/heads/main/Image/left.webp">
-  <img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=darknessm427&theme=radical&border=7F3FBF&background=0D1117)"/>
+  <img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamedp-71&theme=radical&border=7F3FBF&background=0D1117)"/>
   <img  width="18%" src="https://raw.githubusercontent.com/darknessm427/darknessm427/refs/heads/main/Image/right.webp">
 </p>
 
@@ -86,8 +86,8 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 </p>
 
 <a> 
-  <a href="https://github.com/darknessm427"><img alt="darknessm427 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=darknessm427&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/darknessm427"><img alt="darknessm427's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=darknessm427&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/darknessm427"><img alt="hamedp-71 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hamedp-71&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/darknessm427"><img alt="hamedp71's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=darknessm427&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
