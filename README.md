@@ -104,10 +104,10 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 
 ## <img src="./image/pl (20).gif" width="30px" alt=""> Top Rep 
 <!--  <img  align="right" width="30%" src="https://github.com/mansor427/mansor427/blob/main/image/linerainbow2.gif" /> -->
-  [![wow](https://github-readme-stats.vercel.app/api/pin/?username=darknessm427&repo=WoW&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/darknessm427/WoW)
-  [![ESET-Key](https://github-readme-stats.vercel.app/api/pin/?username=darknessm427&repo=ESET-Key&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/darknesm427/ESET-Key)
-  [![Ip](https://github-readme-stats.vercel.app/api/pin/?username=darknessm427&repo=IP_Generator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/darknessm427/IP_Generator)
-  [![Hiddify-warp](https://github-readme-stats.vercel.app/api/pin/?username=darknessm427&repo=Hiddify-warp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/mansor427/workers)
+  [![Trojan](https://github-readme-stats.vercel.app/api/pin/?username=hamedp-71&repo=Trojan&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)]([(https://github.com/hamedp-71/Trojan)])
+  [![Hiddify-Warp](https://github-readme-stats.vercel.app/api/pin/?username=hamedp-71&repo=Hiddify-Warp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)]([(https://github.com/hamedp-71/Hiddify-Warp)])
+  [![hp-clash](https://github-readme-stats.vercel.app/api/pin/?username=hamedp-71&repo=hp-clash&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)]([(https://github.com/hamedp-71/hp-clash)])
+  [![BPB-Panel-EN](https://github-readme-stats.vercel.app/api/pin/?username=hamedp-71&repo=Hiddify-warp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)]([(https://github.com/hamedp-71/BPB-Panel-EN)])
 
 <p align="left">
   <a href="https://github.com/darknessm427?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-b247ff?style=for-the-badge&logo=koding&logoColor=white"/></a>
