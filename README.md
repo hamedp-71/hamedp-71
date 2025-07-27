@@ -93,12 +93,12 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 
 
 
-![darknessm427 Graph](https://github-readme-activity-graph.vercel.app/graph?username=darknessm427&custom_title=darknessm427's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![hamedp-71 Graph](https://github-readme-activity-graph.vercel.app/graph?username=hamedp-71&custom_title=hamedp-71's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
 ## <img src="./image/fr.gif" width="30px" alt=""> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darknessm427&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=hamedp-71&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- [![](https://visitcount.itsvg.in/api?id=mansor427&icon=5&color=7)](https://visitcount.itsvg.in) -->
 
@@ -110,13 +110,13 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
   [![BPB-Panel-EN](https://github-readme-stats.vercel.app/api/pin/?username=hamedp-71&repo=Hiddify-warp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)]([(https://github.com/hamedp-71/BPB-Panel-EN)])
 
 <p align="left">
-  <a href="https://github.com/darknessm427?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-b247ff?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/hamedp-71?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-b247ff?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 
 
 <p align="center">
-  <a href="https://github.com/darknessm427"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=25"></a>
+  <a href="https://github.com/hamedp-71"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=25"></a>
 </p>
 
 ![rand](https://rand-xyz.now.sh/api/hello)
