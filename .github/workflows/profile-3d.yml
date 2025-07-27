@@ -1,0 +1,48 @@
+name: Update GitHub Profile
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      - name: Commit Snake Animation
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add dist/*.svg
+          git commit -m "Update snake animation" || echo "No changes to commit"
+          git push
+
+      - name: Generate 3D Profile Contribution
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+        with:
+          output: profile-3d-contrib/profile-night-rainbow.svg
+
+      - name: Commit 3D Profile
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add profile-3d-contrib/*.svg
+          git commit -m "Update 3D profile contribution" || echo "No changes to commit"
+          git push
