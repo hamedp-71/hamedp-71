@@ -1,7 +1,6 @@
 <p align="center">
-
-  ![pf visito](https://komarev.com/ghpvc/?username=darknessm427&color=blueviolet)<img src="https://github.com/mansor427/mansor427/assets/104245967/70d5725e-39eb-445a-8a50-d134a2f3ece5" width="30px" alt="">
-  <a href="https://github.com/darknessm427"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Github!;👾ÐΛɌ₭ᑎΞ𐒡𐒡👾;&font=Pacifico&center=true&width=400&height=35&color=03ffcd&vCenter=true&size=25"></a>
+  ![pf visito](https://komarev.com/ghpvc/?username=hamedp-71&color=blueviolet)<img src="https://github.com/mansor427/mansor427/assets/104245967/70d5725e-39eb-445a-8a50-d134a2f3ece5" width="30px" alt="">
+  <a href="https://github.com/hamedp-71"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20Github!;👾Hamedp71👾;&font=Pacifico&center=true&width=400&height=35&color=03ffcd&vCenter=true&size=25"></a>
 </p> 
 
 
@@ -17,11 +16,11 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 -->
 <p align="center" >
   <img src="./image/ct (5).gif" width="30px" alt="">
-<a href = "https://x.com/Mansor427"> <img src="https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=White&labelColor=0D1117" target="_blank"></a>
-  <a href="https://instagram.com/mansor427" target="_blank"><img src="https://img.shields.io/badge/-Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=magenta&labelColor=0D1117" target="_blank"></a>
-   <a href = "mailto:mansor427@yahoo.com"> <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=yellow&labelColor=0D1117" target="_blank"></a>
-  <a href="https://t.me/mansor427" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=0D1117" target="_blank"></a> 
-  <a href="https://github.com/darknessm427" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
+<a href = "https://x.com/hamedp_71"> <img src="https://img.shields.io/badge/-X-white?style=for-the-badge&logo=x&logoColor=White&labelColor=0D1117" target="_blank"></a>
+  <a href="https://instagram.com/hamedp71" target="_blank"><img src="https://img.shields.io/badge/-Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=magenta&labelColor=0D1117" target="_blank"></a>
+   <a href = "mailto:hamedfinal18@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=yellow&labelColor=0D1117" target="_blank"></a>
+  <a href="https://t.me/hamedp71" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=0D1117" target="_blank"></a> 
+  <a href="https://github.com/hamedp-71" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
   </p>
 <!--
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mansor427) 
@@ -72,63 +71,7 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 
 
 <p align="center">
-  <img  width="18%" src="https://raw.githubusercontent.com/darknessm427/darknessm427/refs/heads/main/Image/left.webp">
-  <img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=darknessm427&theme=radical&border=7F3FBF&background=0D1117)"/>
-  <img  width="18%" src="https://raw.githubusercontent.com/darknessm427/darknessm427/refs/heads/main/Image/right.webp">
+  <img  width="18%" src="https://raw.githubusercontent.com/hamedp-71/hamedp-71/refs/heads/main/Image/left.webp">
+  <img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamedp-71&theme=radical&border=7F3FBF&background=0D1117)"/>
+  <img  width="18%" src="https://raw.githubusercontent.com/hamedp-71/hamedp-71/refs/heads/main/Image/right.webp">
 </p>
-
-
-
-<p align="center">
-  <a href="https://github.com/darknessm427">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darknessm427&theme=radical" alt="darknessm427 GitHub Contribution"/>
-  </a>
-</p>
-
-<a> 
-  <a href="https://github.com/darknessm427"><img alt="darknessm427 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=darknessm427&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/darknessm427"><img alt="darknessm427's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=darknessm427&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-
-
-![darknessm427 Graph](https://github-readme-activity-graph.vercel.app/graph?username=darknessm427&custom_title=darknessm427's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-
-## <img src="./image/fr.gif" width="30px" alt=""> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=darknessm427&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
-<!-- [![](https://visitcount.itsvg.in/api?id=mansor427&icon=5&color=7)](https://visitcount.itsvg.in) -->
-
-## <img src="./image/pl (20).gif" width="30px" alt=""> Top Rep 
-<!--  <img  align="right" width="30%" src="https://github.com/mansor427/mansor427/blob/main/image/linerainbow2.gif" /> -->
-  [![wow](https://github-readme-stats.vercel.app/api/pin/?username=darknessm427&repo=WoW&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/darknessm427/WoW)
-  [![ESET-Key](https://github-readme-stats.vercel.app/api/pin/?username=darknessm427&repo=ESET-Key&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/darknesm427/ESET-Key)
-  [![Ip](https://github-readme-stats.vercel.app/api/pin/?username=darknessm427&repo=IP_Generator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/darknessm427/IP_Generator)
-  [![Hiddify-warp](https://github-readme-stats.vercel.app/api/pin/?username=darknessm427&repo=Hiddify-warp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)](https://github.com/mansor427/workers)
-
-<p align="left">
-  <a href="https://github.com/darknessm427?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repositories-b247ff?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://github.com/darknessm427"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=25"></a>
-</p>
-
-![rand](https://rand-xyz.now.sh/api/hello)
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="10%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-<img  align="right" width="15%" src="https://github.com/user-attachments/assets/bf8ee1c6-2823-4425-8b79-925a83292408" />
-![rand](https://rand-xyz.now.sh/api/hello)
-
-
-<!--  ```match
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/mansor427/mansor427/main/pattern.png');]{x0000}$}  -->
