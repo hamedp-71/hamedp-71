@@ -21,7 +21,7 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
   <a href="https://instagram.com/hamedp71" target="_blank"><img src="https://img.shields.io/badge/-Instagram-magenta?style=for-the-badge&logo=instagram&logoColor=magenta&labelColor=0D1117" target="_blank"></a>
    <a href = "mailto:hamedfinal18@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=yellow&labelColor=0D1117" target="_blank"></a>
   <a href="https://t.me/hamedp71" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=cyan&labelColor=0D1117" target="_blank"></a> 
-  <a href="https://github.com/hamedp71" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
+  <a href="https://github.com/hamedp-71" target="_blank"><img src="https://img.shields.io/badge/-Github-silver?style=for-the-badge&logo=github&logoColor=silver&labelColor=0D1117" target="_blank"></a> 
   </p>
 <!--
   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Mansor427) 
@@ -81,13 +81,13 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 
 <p align="center">
   <a href="https://github.com/hamedp-71">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darknessm427&theme=radical" alt="darknessm427 GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamedp-71&theme=radical" alt="hamedp-71 GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-  <a href="https://github.com/darknessm427"><img alt="hamedp-71 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hamedp-71&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/darknessm427"><img alt="hamedp71's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=darknessm427&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/hamedp-71"><img alt="hamedp-71 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=hamedp-71&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/hamedp-71"><img alt="hamedp71's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hamedp-71&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
