@@ -80,7 +80,7 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 
 
 <p align="center">
-  <a href="https://github.com/darknessm427">
+  <a href="https://github.com/hamedp-71">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darknessm427&theme=radical" alt="darknessm427 GitHub Contribution"/>
   </a>
 </p>
