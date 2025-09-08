@@ -72,9 +72,9 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 
 
 <p align="center">
-  <img  width="18%" src="https://raw.githubusercontent.com/darknessm427/darknessm427/refs/heads/main/Image/left.webp">
+  <img  width="18%" src="https://github.com/user-attachments/assets/70524830-06e6-4482-a341-23bd773bf95e">
   <img align="center"  width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hamedp-71&theme=radical&border=7F3FBF&background=0D1117)"/>
-  <img  width="18%" src="https://raw.githubusercontent.com/darknessm427/darknessm427/refs/heads/main/Image/right.webp">
+  <img  width="18%" src="https://github.com/user-attachments/assets/fa1c3a78-a9d1-489b-bd38-9bec03df4bec">
 </p>
 
 
