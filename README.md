@@ -98,7 +98,8 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 
 
 ## <img src="./image/fr.gif" width="30px" alt=""> GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hamedp-71&theme=discord&no-frame=false&no-bg=true&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=hamedp-71&theme=discord&no-frame=false&no-bg=true&margin-w=4&rank=-UNKNOWN)
 
 <!-- [![](https://visitcount.itsvg.in/api?id=mansor427&icon=5&color=7)](https://visitcount.itsvg.in) -->
 
