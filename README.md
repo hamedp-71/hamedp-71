@@ -107,7 +107,7 @@ https://github-stats-alpha.vercel.app/api?username=mansor427&cc=22272e&tc=37BCF6
 <!--  <img  align="right" width="30%" src="https://github.com/mansor427/mansor427/blob/main/image/linerainbow2.gif" /> -->
   [![Sub_Checker_Creator](https://github-readme-stats.vercel.app/api/pin/?username=hamedp-71&repo=Sub_Checker_Creator&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)]([(https://github.com/hamedp-71/Sub_Checker_Creator)])
   [![Trojan](https://github-readme-stats.vercel.app/api/pin/?username=hamedp-71&repo=Trojan&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)]([(https://github.com/hamedp-71/Trojan)])
-  [![BPB-Panel-EN](https://github-readme-stats.vercel.app/api/pin/?username=hamedp-71&repo=Hiddify-warp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)]([(https://github.com/hamedp-71/BPB-Panel-EN)])
+  [![BPB-Panel-EN](https://github-readme-stats.vercel.app/api/pin/?username=hamedp-71&repo=BPB-Panel-EN&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)]([(https://github.com/hamedp-71/BPB-Panel-EN)])
   [![Hiddify-Warp](https://github-readme-stats.vercel.app/api/pin/?username=hamedp-71&repo=Hiddify-Warp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=ff0368)]([(https://github.com/hamedp-71/Hiddify-Warp)])
 
 <p align="left">
